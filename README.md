@@ -1,0 +1,2 @@
+# NevMesh.Js
+NevMesh.Js是一个开源的JavaScript库,能够使用Unity导出的NavMesh文件进行AI寻路。是在ThreeJs的PatrolJS基础上，针对Laya引擎做了改造。
