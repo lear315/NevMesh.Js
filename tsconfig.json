@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": true,
+        "declaration": true,
+        "noEmitOnError": true,
+        "outFile": "build/NevMesh.js",
+    },
+    "include": [
+        "src/**/**.ts"
+    ]
+}
