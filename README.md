@@ -17,3 +17,5 @@ Python转换Json工具：python/convert_obj_three.py
 
 demo地址：
 https://github.com/lear315/NevMeshJSDemo
+
+在线试用: https://womenzhai.cn/articleDetail?article_id=5fc9fa72029db26f911a8041
